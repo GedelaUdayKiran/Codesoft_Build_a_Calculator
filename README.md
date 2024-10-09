@@ -1,2 +1,5 @@
 # Codesoft_Build_a_Calculator
-Task 2
+
+CodeSoft Intership Task 2
+
+Building a Calculater using HTML, CSS, JAVASCRIPT.
